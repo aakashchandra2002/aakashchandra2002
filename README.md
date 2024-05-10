@@ -4,7 +4,7 @@
 <h1 align="center">Konnichiwa 👋, I'm Aakash Chandra</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashchandra2002&label=Profile%20views&color=0e75b6&style=flat" alt="aakashchandra2002" /> </p>
+<p align="left"> <img src="https://drive.google.com/file/d/1ztI4J2I5RosdAhvDnHGiWb2kilZr4Oe4/view?usp=sharing" /> </p>
 <img align ="right" alt="Coding" width ="400" src="https://cdn-icons-png.flaticon.com/512/3344/3344361.png"/>
 - 🔭 I’m currently working on [GrabTheFashion](https://github.com/aakashchandra2002/GrabTheFashion)
 
