@@ -1,4 +1,4 @@
-<h1 Hey there!!! 👋, I'm Aakash Chandra></h1>
+<h1> Hey there!!! 👋, I'm Aakash Chandra</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align ="right" alt="Coding" width ="300" src="https://cdn-icons-png.flaticon.com/512/3344/3344361.png"/>
 
