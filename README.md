@@ -4,7 +4,7 @@
 
 <h1 align="center">Konnichiwa 👋, I'm Aakash Chandra</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align ="right" alt="Coding" width ="400" src="https://cdn-icons-png.flaticon.com/512/3344/3344361.png/>"
+<img align ="right" alt="Coding" width ="400" src="https://cdn-icons-png.flaticon.com/512/3344/3344361.png"/>
 
 
 - 🔭 I’m currently working on [GrabTheFashion](https://github.com/aakashchandra2002/GrabTheFashion)
