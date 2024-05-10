@@ -5,7 +5,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashchandra2002&label=Profile%20views&color=0e75b6&style=flat" alt="aakashchandra2002" /> </p>
-
+<img align ="right" alt="Coding" width ="400" src="https://cdn-icons-png.flaticon.com/512/3344/3344361.png/>"
 - 🔭 I’m currently working on [GrabTheFashion](https://github.com/aakashchandra2002/GrabTheFashion)
 
 - 🌱 I’m currently learning **React JS, Node JS, Express JS**
