@@ -1,5 +1,5 @@
 
-![MasterHead](https://drive.google.com/file/d/1ztI4J2I5RosdAhvDnHGiWb2kilZr4Oe4/view?usp=sharing)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCJGSEj95N_4SPKrgTB2HJdNcEEL1xTVtKIxcTdzgqKWUXl4WBP39T-4M6DvV1IpHzrw&usqp=CAU)
 
 
 <h1 align="center">Konnichiwa 👋, I'm Aakash Chandra</h1>
