@@ -1,5 +1,5 @@
 
-[![MasterHead](https://wallpapers.com/images/high/minimalist-motivational-important-things-c0udu63hu26kzfpa.webp)]
+![MasterHead](https://wallpapers.com/images/high/minimalist-motivational-important-things-c0udu63hu26kzfpa.webp)
 
 <h1 align="center">Konnichiwa 👋, I'm Aakash Chandra</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
