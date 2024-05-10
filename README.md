@@ -1,11 +1,12 @@
 
-![MasterHead](https://wallpapers.com/images/high/minimalist-motivational-important-things-c0udu63hu26kzfpa.webp)
+![MasterHead](https://drive.google.com/file/d/1ztI4J2I5RosdAhvDnHGiWb2kilZr4Oe4/view?usp=sharing)
+
 
 <h1 align="center">Konnichiwa 👋, I'm Aakash Chandra</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+<img align ="right" alt="Coding" width ="400" src="https://cdn-icons-png.flaticon.com/512/3344/3344361.png/>"
 
-<p align="left"> <img src="https://drive.google.com/file/d/1ztI4J2I5RosdAhvDnHGiWb2kilZr4Oe4/view?usp=sharing" /> </p>
-<img align ="right" alt="Coding" width ="400" src="https://cdn-icons-png.flaticon.com/512/3344/3344361.png"/>
+
 - 🔭 I’m currently working on [GrabTheFashion](https://github.com/aakashchandra2002/GrabTheFashion)
 
 - 🌱 I’m currently learning **React JS, Node JS, Express JS**
