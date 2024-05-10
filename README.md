@@ -1,8 +1,7 @@
 
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCJGSEj95N_4SPKrgTB2HJdNcEEL1xTVtKIxcTdzgqKWUXl4WBP39T-4M6DvV1IpHzrw&usqp=CAU)
 
 
-<h1 align="center">Konnichiwa 👋, I'm Aakash Chandra</h1>
+<h1 Hey there!!! 👋, I'm Aakash Chandra</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align ="right" alt="Coding" width ="400" src="https://cdn-icons-png.flaticon.com/512/3344/3344361.png"/>
 
@@ -19,7 +18,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@AakashChandra](https://hashnode.com/@AakashChandra)
 
-- 💬 Ask me about **HTML, CSS, JS, ReactJS**
+- 💬 Ask me about **HTML, CSS, JS, ReactJS, Java**
 
 - 📫 How to reach me **aakashchandra2002@gmail.com**
 
