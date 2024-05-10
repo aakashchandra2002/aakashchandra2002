@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1m97oBQZA4Q5hKxOb13Jp0PtGhUg_NuPb/view](https://drive.google.com/file/d/1m97oBQZA4Q5hKxOb13Jp0PtGhUg_NuPb/view)
 
-- ⚡ Fun fact **Weeb**
+- ⚡ Fun fact **I love coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
